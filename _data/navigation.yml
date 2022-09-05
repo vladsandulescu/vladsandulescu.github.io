@@ -1,0 +1,12 @@
+# main links links
+main:
+  - title: "Home"
+    url: /
+  - title: "Slides"
+    url: /slides/
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: https://drive.google.com/file/d/1wbKK3n3apVS2BLhhadeqL1qMS9gLy4Du/view?usp=sharing
+  - title: "About"
+    url: /about/
